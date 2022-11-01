@@ -1,0 +1,5 @@
+$('.sliders').slick(
+	{
+		dots:true,
+	}
+);
